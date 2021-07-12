@@ -1,5 +1,6 @@
 # Shapes-in-css
 ## add code in css
+  <div>
   .slanted {
         background-color: #1877C3;
         height: 600px;
@@ -7,6 +8,7 @@
         clip-path: polygon(0 0, 100% 0, 662% 66%, 0 100%);
         transform: rotate(180deg);
     }
+  
     ## add in html
     <hr>
     
